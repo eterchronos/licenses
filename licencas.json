@@ -1,6 +1,8 @@
 {
-    "CHAVE001": {
-        "validade": "2027-01-01",
-        "ativo": true
-    }
+  "CHAVE001": {
+    "name": "Computador Escritorio",
+    "validade": "2027-01-01",
+    "ativo": true,
+    "mac": ""
+}
 }
