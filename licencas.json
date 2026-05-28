@@ -2,13 +2,5 @@
     "CHAVE001": {
         "validade": "2027-01-01",
         "ativo": true
-    },
-    "CHAVE002": {
-        "validade": "2025-06-01",
-        "ativo": false
-    },
-    "CHAVE003": {
-        "validade": "2026-01-01",
-        "ativo": true
     }
 }
